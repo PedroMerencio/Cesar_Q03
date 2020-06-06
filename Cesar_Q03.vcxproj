@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Cesar_Q03.cpp" />
+    <ClCompile Include="Methods.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Methods.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
